@@ -1,0 +1,33 @@
+Covfefe Mobile iOS Project - Hadley Griffin
+============================================
+
+**Instructions and platform specifications**
+
+>**Languages:**
+>
+>- Swift 3.0
+>
+>**Instructions**
+>
+>1. Download files to computer
+>2. Run in Xcode
+>
+>**Tools and implementations**
+>
+>1. MVC Architecture
+>2. Core Data to store favorite shops and favorite drinks
+>3. Web API call to get current weather in a certain city
+>4. MapKit
+>5. UIWebView 
+
+
+Info
+----
+This application allows the user to enter the desired city and find coffee shops in that city (using MapKit).
+All shops are displayed in a table view and with corresponding annotations on a map view. The user can select a shop
+and it will take them to a detail view with the shops phone number, website (if available), and the weather at that
+shop's location. The user can click on the website button to deploy the WebView (WKWebView) of the shop's site within 
+the app. From the detail view, the user can also add that shop to their favorite shops list. From the home page, the 
+user can access their favorite shops list. When the user clicks on a shop from this list, it takes them to a detail 
+view with the shop information (phone and webview). From this page the user can access the favorite drinks list.
+The user can view their favorite drinks, add drinks (with name, price, and calories), and delete drinks from this view.
