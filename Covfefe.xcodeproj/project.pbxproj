@@ -7,15 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F188D321FC0E50D00163A20 /* searchData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F188D311FC0E50D00163A20 /* searchData.swift */; };
+		9F188D341FC1355000163A20 /* WKWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F188D331FC1355000163A20 /* WKWebViewController.swift */; };
+		9F188D381FC1489700163A20 /* favShopCoreData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F188D371FC1489700163A20 /* favShopCoreData.swift */; };
+		9F188D3A1FC14A1900163A20 /* FavoriteShop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F188D391FC14A1900163A20 /* FavoriteShop.swift */; };
+		9F188D3C1FC166F900163A20 /* happyCofee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9F188D3B1FC166F900163A20 /* happyCofee.jpg */; };
+		9F188D3E1FC167BA00163A20 /* WKWebViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F188D3D1FC167BA00163A20 /* WKWebViewController2.swift */; };
+		9F188D421FC2359900163A20 /* favDrinkCoreData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F188D411FC2359900163A20 /* favDrinkCoreData.swift */; };
+		9F188D441FC2377D00163A20 /* FavoriteDrink+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F188D431FC2377D00163A20 /* FavoriteDrink+CoreDataProperties.swift */; };
 		9F4CD9311FA7AC35007A0405 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CD9301FA7AC35007A0405 /* AppDelegate.swift */; };
 		9F4CD9331FA7AC35007A0405 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CD9321FA7AC35007A0405 /* ViewController.swift */; };
 		9F4CD9361FA7AC35007A0405 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F4CD9341FA7AC35007A0405 /* Main.storyboard */; };
 		9F4CD9391FA7AC35007A0405 /* Covfefe.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CD9371FA7AC35007A0405 /* Covfefe.xcdatamodeld */; };
 		9F4CD93B1FA7AC35007A0405 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F4CD93A1FA7AC35007A0405 /* Assets.xcassets */; };
 		9F4CD93E1FA7AC35007A0405 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9F4CD93C1FA7AC35007A0405 /* LaunchScreen.storyboard */; };
+		9F4CD94E1FA7B0A3007A0405 /* coffee.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9F4CD94D1FA7B0A3007A0405 /* coffee.jpg */; };
+		9F4CD9501FA7B1F4007A0405 /* mapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CD94F1FA7B1F4007A0405 /* mapViewController.swift */; };
+		9F4CD9541FA7C3F4007A0405 /* favoriteShopsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CD9531FA7C3F4007A0405 /* favoriteShopsViewController.swift */; };
+		9F4CD9561FA9048C007A0405 /* favoriteShopInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CD9551FA9048C007A0405 /* favoriteShopInfoViewController.swift */; };
+		9F4CD9581FA9049C007A0405 /* shopInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CD9571FA9049C007A0405 /* shopInfoViewController.swift */; };
+		9F4CD95A1FA90646007A0405 /* favoriteDrinksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CD9591FA90646007A0405 /* favoriteDrinksViewController.swift */; };
+		9F4CD95C1FA906B5007A0405 /* addDrinkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CD95B1FA906B5007A0405 /* addDrinkViewController.swift */; };
+		9F4CD95E1FA90975007A0405 /* drinkInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4CD95D1FA90975007A0405 /* drinkInfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F188D311FC0E50D00163A20 /* searchData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = searchData.swift; sourceTree = "<group>"; };
+		9F188D331FC1355000163A20 /* WKWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WKWebViewController.swift; sourceTree = "<group>"; };
+		9F188D371FC1489700163A20 /* favShopCoreData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = favShopCoreData.swift; sourceTree = "<group>"; };
+		9F188D391FC14A1900163A20 /* FavoriteShop.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FavoriteShop.swift; path = ../FavoriteShop.swift; sourceTree = "<group>"; };
+		9F188D3B1FC166F900163A20 /* happyCofee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = happyCofee.jpg; sourceTree = "<group>"; };
+		9F188D3D1FC167BA00163A20 /* WKWebViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WKWebViewController2.swift; sourceTree = "<group>"; };
+		9F188D411FC2359900163A20 /* favDrinkCoreData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = favDrinkCoreData.swift; sourceTree = "<group>"; };
+		9F188D431FC2377D00163A20 /* FavoriteDrink+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "FavoriteDrink+CoreDataProperties.swift"; path = "../FavoriteDrink+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		9F4CD92D1FA7AC35007A0405 /* Covfefe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Covfefe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F4CD9301FA7AC35007A0405 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9F4CD9321FA7AC35007A0405 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +48,14 @@
 		9F4CD93A1FA7AC35007A0405 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9F4CD93D1FA7AC35007A0405 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F4CD93F1FA7AC35007A0405 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F4CD94D1FA7B0A3007A0405 /* coffee.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coffee.jpg; sourceTree = "<group>"; };
+		9F4CD94F1FA7B1F4007A0405 /* mapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = mapViewController.swift; sourceTree = "<group>"; };
+		9F4CD9531FA7C3F4007A0405 /* favoriteShopsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = favoriteShopsViewController.swift; path = ../favoriteShopsViewController.swift; sourceTree = "<group>"; };
+		9F4CD9551FA9048C007A0405 /* favoriteShopInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = favoriteShopInfoViewController.swift; sourceTree = "<group>"; };
+		9F4CD9571FA9049C007A0405 /* shopInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = shopInfoViewController.swift; sourceTree = "<group>"; };
+		9F4CD9591FA90646007A0405 /* favoriteDrinksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = favoriteDrinksViewController.swift; sourceTree = "<group>"; };
+		9F4CD95B1FA906B5007A0405 /* addDrinkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = addDrinkViewController.swift; sourceTree = "<group>"; };
+		9F4CD95D1FA90975007A0405 /* drinkInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = drinkInfoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +74,8 @@
 			children = (
 				9F4CD92F1FA7AC35007A0405 /* Covfefe */,
 				9F4CD92E1FA7AC35007A0405 /* Products */,
+				9F4CD94D1FA7B0A3007A0405 /* coffee.jpg */,
+				9F188D3B1FC166F900163A20 /* happyCofee.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,9 +90,23 @@
 		9F4CD92F1FA7AC35007A0405 /* Covfefe */ = {
 			isa = PBXGroup;
 			children = (
+				9F188D431FC2377D00163A20 /* FavoriteDrink+CoreDataProperties.swift */,
+				9F188D411FC2359900163A20 /* favDrinkCoreData.swift */,
+				9F188D391FC14A1900163A20 /* FavoriteShop.swift */,
 				9F4CD9301FA7AC35007A0405 /* AppDelegate.swift */,
 				9F4CD9321FA7AC35007A0405 /* ViewController.swift */,
 				9F4CD9341FA7AC35007A0405 /* Main.storyboard */,
+				9F4CD95D1FA90975007A0405 /* drinkInfoViewController.swift */,
+				9F4CD95B1FA906B5007A0405 /* addDrinkViewController.swift */,
+				9F4CD9591FA90646007A0405 /* favoriteDrinksViewController.swift */,
+				9F4CD9551FA9048C007A0405 /* favoriteShopInfoViewController.swift */,
+				9F4CD9571FA9049C007A0405 /* shopInfoViewController.swift */,
+				9F188D311FC0E50D00163A20 /* searchData.swift */,
+				9F188D331FC1355000163A20 /* WKWebViewController.swift */,
+				9F188D3D1FC167BA00163A20 /* WKWebViewController2.swift */,
+				9F188D371FC1489700163A20 /* favShopCoreData.swift */,
+				9F4CD9531FA7C3F4007A0405 /* favoriteShopsViewController.swift */,
+				9F4CD94F1FA7B1F4007A0405 /* mapViewController.swift */,
 				9F4CD93A1FA7AC35007A0405 /* Assets.xcassets */,
 				9F4CD93C1FA7AC35007A0405 /* LaunchScreen.storyboard */,
 				9F4CD93F1FA7AC35007A0405 /* Info.plist */,
@@ -128,7 +176,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F4CD93E1FA7AC35007A0405 /* LaunchScreen.storyboard in Resources */,
+				9F4CD94E1FA7B0A3007A0405 /* coffee.jpg in Resources */,
 				9F4CD93B1FA7AC35007A0405 /* Assets.xcassets in Resources */,
+				9F188D3C1FC166F900163A20 /* happyCofee.jpg in Resources */,
 				9F4CD9361FA7AC35007A0405 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,9 +190,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F188D381FC1489700163A20 /* favShopCoreData.swift in Sources */,
 				9F4CD9331FA7AC35007A0405 /* ViewController.swift in Sources */,
+				9F4CD95E1FA90975007A0405 /* drinkInfoViewController.swift in Sources */,
+				9F188D441FC2377D00163A20 /* FavoriteDrink+CoreDataProperties.swift in Sources */,
+				9F4CD9541FA7C3F4007A0405 /* favoriteShopsViewController.swift in Sources */,
+				9F188D341FC1355000163A20 /* WKWebViewController.swift in Sources */,
+				9F4CD95C1FA906B5007A0405 /* addDrinkViewController.swift in Sources */,
+				9F4CD9561FA9048C007A0405 /* favoriteShopInfoViewController.swift in Sources */,
+				9F4CD95A1FA90646007A0405 /* favoriteDrinksViewController.swift in Sources */,
 				9F4CD9311FA7AC35007A0405 /* AppDelegate.swift in Sources */,
+				9F188D421FC2359900163A20 /* favDrinkCoreData.swift in Sources */,
+				9F188D3E1FC167BA00163A20 /* WKWebViewController2.swift in Sources */,
+				9F4CD9581FA9049C007A0405 /* shopInfoViewController.swift in Sources */,
+				9F188D321FC0E50D00163A20 /* searchData.swift in Sources */,
 				9F4CD9391FA7AC35007A0405 /* Covfefe.xcdatamodeld in Sources */,
+				9F4CD9501FA7B1F4007A0405 /* mapViewController.swift in Sources */,
+				9F188D3A1FC14A1900163A20 /* FavoriteShop.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,6 +370,7 @@
 				9F4CD9441FA7AC35007A0405 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

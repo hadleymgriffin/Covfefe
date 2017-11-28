@@ -21,5 +21,16 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func returnedFromMap(segue: UIStoryboardSegue)
+    {
+     
+        
+    }
+    
+    @IBAction func returnedFromFavoriteShops(segue: UIStoryboardSegue)
+    {
+        
+        
+    }
 }
 
